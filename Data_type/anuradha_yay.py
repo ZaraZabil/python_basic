@@ -1,5 +1,0 @@
-name=input ("what the name of the best teacher in the world?")
-print(name+ " is the best")
-name2=input("why is she so amazing? \t ")
-print("bcause she is "+ name2)
-print("thank you so much!!!!")
