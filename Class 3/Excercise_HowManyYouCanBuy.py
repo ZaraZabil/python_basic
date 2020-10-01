@@ -10,7 +10,7 @@
 # Hi anu.Your product is sofa.Price of each product is 200.You have total money 700.Hence you can bring 3 number of product sofa.You will be left with money 100
 name=input("Please enter your name: ")
 product=input("Please enter product you want to buy: ")
-unitprice=input("what is the unit price of prduct")
+unitprice=input("what is the unit price of product")
 totalMoney = input("Please enter how much money you have: ")
 quantities= int(totalMoney)//int(unitprice)
 money_left= int(totalMoney)%int(unitprice)

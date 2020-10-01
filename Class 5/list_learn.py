@@ -5,8 +5,7 @@
 # len_list=len(my_list)
 # print(len_list)
 #
-# last_elem=my_list[len_list-1]
-# print(last_elem)
+# last_elem=my_list[
 
 thisList=["orange","banana",3,4,"eraser","zara","sohar"]
 len_list=len(thisList)
